@@ -1,0 +1,14 @@
+Package: my.v6.tsunami
+Name: TSUNAMI 1.7.0
+Depends: mobilesubstrate
+Version: 1.7.0
+Architecture: iphoneos-arm
+Description: GLOBAL!
+Maintainer: Mobean
+Author: Mobean
+Section: Tweaks
+Filename: debs/TSUNAMI.deb
+Size: 116kb
+MD5sum: e6f06665b062169df7743f4c0512cbe3
+SHA1: 4ae51f26ac8f7b13792405263f874fae32375064
+SHA256: 1d6ac3698c86f05d264dc08a037d7a0b05f258c1857be2422776c01cabf8ebea
